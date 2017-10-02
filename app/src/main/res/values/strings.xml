@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">MultiQuiz</string>
+    <string name="question">Question</string>
+    <string name="check">Check</string>
+    <string name="correct">Very good!</string>
+    <string name="incorrect">Incorrect...</string>
+    <string name="next">NEXT</string>
+    <string name="finish">FINISH</string>
+    <string name="back">BACK</string>
+
+    <array name="all_questions">
+        <item>What is the capital of Spain?;Barcelona;Lugo;*Madrid;Málaga</item>
+        <item>What is the biggest state in USA?;*Alaska;California;Missouri;Oklahoma</item>
+    </array>
+
+</resources>
